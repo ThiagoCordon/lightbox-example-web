@@ -338,6 +338,9 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
+  header {
+    background-size: 500% !important;
+  }
   .menu-navegacion {
     width: 65vw;
   }
